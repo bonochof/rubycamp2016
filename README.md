@@ -1,1 +1,1 @@
-"# RubyCamp 2016" 
+# RubyCamp 2016
