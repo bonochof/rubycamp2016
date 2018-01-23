@@ -10,3 +10,6 @@ Arduinoのセンサを用いたゲーム開発
 
 ### ライブラリ
 DXRuby
+
+## 開発者
+[bonochof](https://github.com/bonochof)
